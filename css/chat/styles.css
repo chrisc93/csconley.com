@@ -1,0 +1,57 @@
+.received {
+    background-color: rgba(255, 255, 255, 1);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 3px;
+}
+
+.sent {
+    background-color: rgba(199, 233, 255, 1);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 3px;
+}
+
+.row {
+    border-radius: 10px;
+    margin-left: -23px;
+    margin-right: -3px;
+    list-style-type: none;
+}
+
+.navbar-fixed-top {
+    border-width: 0 0 0px;
+}
+
+.navbar-fixed-bottom {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-color: #222;
+}
+
+.navbar-static-top {
+    margin-bottom: 0px;
+    border-color: #222;
+}
+
+.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
+    color: #777;
+}
+
+.popover {
+    width: 200px;
+}
+
+.popover.bottom {
+    margin-top: -5px;
+}
+
+ul {
+    margin-top: 50px;
+}
+
+body {
+    background-color: #222;
+    margin-bottom: 40px;
+}
+
