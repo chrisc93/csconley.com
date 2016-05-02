@@ -201,8 +201,6 @@
                     <div class="col-md-4" align="center">
                         <br />
                         <img src="images/headshot.jpg" style="border-radius: 5px;" width="250px">
-                        <br /><br />
-                        <a href="assets/Resume.pdf" target="_blank">My resume</a>
                     </div>
                 </div>
             </div>
